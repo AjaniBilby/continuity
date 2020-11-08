@@ -1,0 +1,26 @@
+{
+	"name": "qupa-vl",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.ts",
+	"scripts": {
+		"build": "tsc --build tsconfig.json",
+		"watch": "tsc -w",
+		"start": "election build/app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AjaniBilby/qupa-vl.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AjaniBilby/qupa-vl/issues"
+	},
+	"homepage": "https://github.com/AjaniBilby/qupa-vl#readme",
+	"devDependencies": {
+		"electron": "^10.1.5",
+		"typescript": "^4.0.5"
+	}
+}
