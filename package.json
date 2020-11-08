@@ -1,5 +1,5 @@
 {
-	"name": "qupa-vl",
+	"name": "continuity",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app.ts",
@@ -10,15 +10,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/AjaniBilby/qupa-vl.git"
+		"url": "git+https://github.com/qupa/continuity.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/AjaniBilby/qupa-vl/issues"
+		"url": "https://github.com/qupa/continuity/issues"
 	},
-	"homepage": "https://github.com/AjaniBilby/qupa-vl#readme",
+	"homepage": "https://github.com/qupa/continuity#readme",
 	"devDependencies": {
 		"electron": "^10.1.5",
 		"typescript": "^4.0.5"
